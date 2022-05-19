@@ -4,7 +4,6 @@ tornado>=5.1
 cryptography
 python-telegram-bot
 pyTelegramBotAPI
-utf_8
 telebot
 random
 types
