@@ -5,7 +5,3 @@ cryptography
 python-telegram-bot
 pyTelegramBotAPI
 telebot
-random
-types
-qrcode
-gTTS
